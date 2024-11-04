@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @IncredibleZuess
-- 👀 I’m interested in Python, Javascript and C++
-- 🌱 I’m currently learning the intricacies of Python  
-- 💞️ I’m looking to collaborate on any project that will further my knowledge and experience in programming
-- 📫 How to reach me? You can email me at incrediblezeuss@gmail.com
+- Hi, I’m @IncredibleZuess
+- I’m interested in Reverse Engineering and everything Cybersecurity 
+- I’m looking to collaborate on any project that will further my knowledge and experience in programming
+- How to reach me? You can email me at carlo.barnardo@gmail.com
 
 [![@incrediblezuess's Holopin board](https://holopin.io/api/user/board?user=incrediblezuess)](https://holopin.io/@incrediblezuess)
 
