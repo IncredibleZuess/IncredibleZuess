@@ -1,5 +1,5 @@
 <div align="center">
-# 🚀 Welcome to the Digital Realm of @IncredibleZuess
+# Welcome to the Digital Realm of @IncredibleZuess
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Software+Developer;Problem+Solver;Tech+Enthusiast;Code+Architect;Innovation+Builder" alt="Typing SVG" />
 
@@ -83,7 +83,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=incrediblezuess&theme=gruvbox&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41)](https://git.io/streak-stats)
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=incrediblezuess&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-roan.vercel.app/?username=incrediblezuess&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 My Digital Footprint
 
