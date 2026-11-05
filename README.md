@@ -1,170 +1,140 @@
-<div align="center">
-# Welcome to the Digital Realm of @IncredibleZuess
+<!-- zuess / IncredibleZuess — profile README. The blue word is intentional. -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Software+Developer;Problem+Solver;Tech+Enthusiast;Code+Architect;Innovation+Builder" alt="Typing SVG" />
+<h1 align="center">zuess<span>_</span></h1>
 
-</div>
+<p align="center">
+  <strong>Carlo Barnardo</strong> · Software developer · Systems enthusiast<br />
+  <sub>On GitHub as <code>@IncredibleZuess</code></sub>
+</p>
 
-## 🎯 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=3400&amp;pause=1300&amp;color=00C853&amp;center=true&amp;vCenter=true&amp;width=660&amp;lines=software+%2F%2F+security+%2F%2F+systems;distributed+computing+and+curious+ideas;always+asking+how+it+works" alt="Software, security, systems, and distributed computing" />
+</p>
 
-```ascii
-┌─────────────────────────────────────────────-------─┐
-│  💻 Software Developer & Engineer                   │
-│  🔧 System Architecture Designer                    │
-│  📊 Data Analysis & Automation Expert               │
-│  🎮 Digital Puzzle Solver                           │
-│  🌐 Full-Stack Problem Solver                       │
-│  🚀 Technology Innovation Enthusiast                │
-└─────────────────────────────────────────────────────┘
+<p align="center">
+  <a href="mailto:carlo.barnardo@gmail.com"><img src="https://img.shields.io/badge/email-contact-0d1117?style=flat-square&amp;logo=gmail&amp;logoColor=00C853" alt="Email" /></a>
+  <a href="https://github.com/IncredibleZuess?tab=repositories"><img src="https://img.shields.io/badge/github-projects-0d1117?style=flat-square&amp;logo=github&amp;logoColor=00C853" alt="Repositories" /></a>
+  <img src="https://komarev.com/ghpvc/?username=IncredibleZuess&amp;label=visitors&amp;color=008c4a&amp;style=flat-square" alt="Profile views" />
+</p>
+
+---
+
+## About
+
+I enjoy the parts of computing that make you ask *why* something works—not just how to use it. My interests sit somewhere between software engineering, cybersecurity, distributed systems, and building tools that solve interesting problems.
+
+```text
+zuess@improbability:~$ ./whoami --brief
+Carlo Barnardo | software · security · distributed systems
+zuess@improbability:~$ ls ~/rabbit-holes
+hpc/  ctf/  game-systems/  unfinished-experiments/
 ```
 
-### 🎯 What I'm Currently Working On:
-- 🤖 **Automation Scripts**: Creating Python tools for workflow optimization
-- 🌐 **Web Development**: Building responsive and interactive applications
-- 📚 **Learning**: Exploring new frameworks and programming paradigms
-- 🛠️ **Open Source**: Contributing to community projects and tools
-- 💡 **Innovation**: Developing creative solutions to everyday problems
+- **Cybersecurity:** Two appearances at the **International Cybersecurity Challenge**, first as vice-captain and later as captain. **SANReN Cyber Security Challenge** winner with **Bistromath**.
+- **Research:** Honours research at **North-West University** into making fragmented GPU resources available through a distributed HPC environment.
+- **Teaching & mentoring:** Former NWU student assistant for Python, C# and SQL modules; involved in cybersecurity challenge preparation and mentoring.
 
-### 🏆 Achievements & Interests:
-- 🏅 **Competitive Programming**: Algorithm challenges and coding competitions
-- 🌟 **Project Development**: Building applications from concept to deployment
-- 📖 **Technical Writing**: Sharing knowledge through documentation
-- 🎯 **Problem Solving**: Love tackling complex technical challenges
-- 🤝 **Mentoring**: Helping others learn programming and development
-- 🎨 **UI/UX Design**: Creating intuitive and beautiful user experiences
-🔥 **Passionate about creating efficient solutions and innovative applications**  
-🌟 **Always excited to learn new technologies and improve existing systems**  
-🚀 **Constantly evolving in the ever-changing world of software development**
+## What I'm exploring
 
+| Area | Current focus |
+|:--|:--|
+| **Distributed computing** | GPU clusters, SLURM, CUDA, and approachable research infrastructure. |
+| **Software & developer tools** | Automation, desktop applications, Linux, and systems-level problem solving. |
+| **Game development** | A Godot-based space simulation and a separate terminal-first interstellar trading game. Both are personal projects in development. |
+| **Security & hardware** | CTF challenges, embedded projects, and programmable conference badges. |
 
+## Selected repositories
 
-## 💻 Tech Stack & Programming Arsenal
+A few projects and collaborations that reflect what I like working on:
 
-<div align="center">
+| Project | Description |
+|:--|:--|
+| [**QuantumQueue**](https://github.com/IncredibleZuess/QuantumQueue) | Interactive tool for learning CPU scheduling and page replacement. |
+| [**NWU VIP Project**](https://github.com/IncredibleZuess/NWU-VIPProject2024) | Team application project; I worked on the backend. |
+| [**Bjorn**](https://github.com/IncredibleZuess/Bjorn) | An e-paper / Raspberry Pi cybersecurity tool and an interesting embedded-security project. |
+| [**nori**](https://github.com/dianbrown/nori) | Open-source screen recording and editing with Tauri, Rust, and React. |
 
-### 🛠️ Languages I Speak Fluently
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+<sub>Some repositories are team projects or projects I contribute to, not solo creations.</sub>
 
-### 🔧 Tools & Frameworks
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+## Tools & technologies
 
-### 🌐 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,rust,ts,js,bash,linux,docker,git,godot&amp;theme=dark&amp;perline=11" alt="Languages and tooling: Python, C++, C#, Rust, TypeScript, JavaScript, Bash, Linux, Docker, Git, Godot" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,django,postgres,github,vscode,tauri&amp;theme=dark&amp;perline=8" alt="Frameworks and tools: React, Node.js, Flask, Django, PostgreSQL, GitHub, VS Code, Tauri" />
+</p>
 
-</div>
+<details>
+<summary>Other interests in the stack</summary>
 
----
+`SLURM` · `OpenHPC` · `CUDA` · `RDMA / InfiniBand` · `virtualization` · `embedded systems` · `PCB design`
 
-## 📈 GitHub Analytics & Activity
+</details>
 
-<div align="center">
+## GitHub activity
 
-### 📊 Comprehensive Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=incrediblezuess&theme=gruvbox&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=incrediblezuess&layout=compact&theme=gruvbox&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff" />
+<p align="center">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=IncredibleZuess&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00C853&amp;text_color=FFFFFF&amp;icon_color=00C853" alt="GitHub statistics" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=IncredibleZuess&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00C853&amp;text_color=FFFFFF" alt="Languages used in public repositories" />
+</p>
 
-### 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=incrediblezuess&theme=gruvbox&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=IncredibleZuess&amp;hide_border=true&amp;background=0D1117&amp;stroke=00C853&amp;ring=00C853&amp;fire=00C853&amp;currStreakLabel=00C853&amp;sideLabels=FFFFFF&amp;dates=A8B3A6" alt="GitHub contribution streak" />
+</p>
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy-roan.vercel.app/?username=incrediblezuess&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+<details>
+<summary>More activity</summary>
 
-## 📊 My Digital Footprint
+<p align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/IncredibleZuess?chart=3dbar&amp;gap=0.7&amp;scale=2&amp;flatten=0&amp;animation=fall&amp;animation_duration=2&amp;weeks=30&amp;theme=green&amp;dark=true&amp;format=svg" alt="3D contribution calendar" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IncredibleZuess&amp;bg_color=0d1117&amp;color=00c853&amp;line=00c853&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="Activity graph" />
+</p>
 
-### 🎨 Contribution Activity
-[![@IncredibleZuess's Commit Graph](https://ssr-contributions-svg.vercel.app/_/IncredibleZuess?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=fall&animation_duration=2&animation_delay=0.005&weeks=30&theme=green&dark=true&format=svg)]()
+<details>
+<summary>Badges & coding time</summary>
 
+![GitHub trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=IncredibleZuess&theme=gruvbox&no-frame=true&row=1&column=6)
 
-### 🏆 Achievement Showcase
-[![@incrediblezuess's Holopin board](https://holopin.io/api/user/board?user=incrediblezuess)](https://holopin.io/@incrediblezuess)
+[![Holopin badge board](https://holopin.io/api/user/board?user=incrediblezuess)](https://holopin.io/@incrediblezuess)
 
-### 📈 Activity Graph
-[![IncredibleZuess's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=incrediblezuess&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-## 🎯 Fun Facts & Quick Stats
-
-<div align="center">
-
-### 📊 Coding Time Breakdown
 <!--START_SECTION:waka-->
-[![wakatime](https://wakatime.com/share/@d7509193-589b-4fb2-bcc6-2838ff1655d1/e33fdb13-4c56-49b2-806f-6cb225bc2bb9.svg)]()
+![WakaTime coding breakdown](https://wakatime.com/share/@d7509193-589b-4fb2-bcc6-2838ff1655d1/e33fdb13-4c56-49b2-806f-6cb225bc2bb9.svg)
 <!--END_SECTION:waka-->
 
-### 🎮 Random Developer Facts
-- ☕ **Caffeine Level**: Always at 100%
-- 🌙 **Preferred Coding Hours**: Late night (bugs fear the darkness)
-- 🎵 **Coding Playlist**: Cyberpunk & Electronic
-- 🏃‍♂️ **Debug Method**: Rubber duck debugging champion
-- 🎯 **Code Philosophy**: "Clean code, efficient solutions"
+</details>
+</details>
 
-</div>
+## Beyond the keyboard
 
+Space sims, coffee, good books, and ideas that turn into side projects. I have a particular appreciation for absurdly intricate systems—and for a certain [house](https://en.wikipedia.org/wiki/House_of_Leaves).
 
-## 🎭 Daily Dose of Humor
+<details>
+<summary><code>cat ~/machines</code></summary>
 
-<div align="center">
+| Role | Hostname |
+|:--|:--|
+| Main workstation | `improbability` |
+| Work PC | `tangrisnir` |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark&hideBorder)
+</details>
 
-</div>
+<details>
+<summary><code>ls -a ~/off-topic</code></summary>
 
+```text
+books/  coffee/  space-sims/  questions-with-no-short-answer/
+```
 
-## 🤝 Let's Connect & Collaborate
+<sub>Some side projects start with one question and end with twelve more.</sub>
 
-<div align="center">
-
-### 💡 Looking to collaborate on:
-- 🌐 **Web development projects** with modern frameworks
-- 🐍 **Python automation tools** for efficiency
-- 📱 **Mobile applications** and cross-platform solutions
-- 🤖 **AI/ML projects** and data science applications
-- 📚 **Open source tools** development
-- 🎯 **Algorithm challenges** and competitive programming
-- 💻 **System administration** automation
-- 📊 **Data analysis** and visualization projects
-- 🔐 **Security-focused applications** (when relevant)
-- 🎨 **UI/UX design** and frontend development
-
-### 📫 Reach Out:
-[![Email](https://img.shields.io/badge/📧_carlo.barnardo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlo.barnardo@gmail.com)
-
-</div>
-
-### Sponsor me A coffee
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R21JR6F4)
+</details>
 
 ---
 
-<div align="center">
-
-*"Great software is built one elegant solution at a time"* ✨
-
-**⭐ If you find my work interesting, consider giving it a star!**
-
-</div>
-
-
-<!---
-IncredibleZuess/IncredibleZuess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="mailto:carlo.barnardo@gmail.com">Get in touch</a> · <a href="https://github.com/IncredibleZuess?tab=repositories">Browse my work</a> · <a href="https://ko-fi.com/R6R21JR6F4">Buy me a coffee</a>
+</p>
